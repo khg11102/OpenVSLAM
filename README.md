@@ -20,9 +20,9 @@ fdsafdsa
 [Google](https://google.com, "google link")
 
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
-👎🏻
+*single asterisks*   
+_single underscores_   
+**double asterisks**   
+__double underscores__   
+~~cancelline~~   
+👎🏻   
