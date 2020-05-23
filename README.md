@@ -374,7 +374,7 @@ npm을 설치하고 app.js를 실행시키면 SocketViewer가 실행된다.
 
 [http://localhost:3001/](http://localhost:3001/) <- 접속해보면 SocketViewer가  다음과 같이 정상적으로 출력되면 성공 👏🏼
 
-![](/Users/mac/Pictures/그림3.png)
+![](https://github.com/khg11102/OpenVSLAM/blob/master/%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B73.png)
 
 ---
 
@@ -436,7 +436,7 @@ _Installation에서 ./run_kitti_slam -h 를 출력하면 스니펫을 확인 할
 
 ### Sample Datasets의 영상을 맵핑까지 확인해보았습니다.
 
-![](/Users/mac/Pictures/그림2.png)
+![](https://github.com/khg11102/OpenVSLAM/blob/master/%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B72.png)
 
 ---
 
@@ -485,7 +485,7 @@ $ ./run_camera_slam –v ./orb_vocab/orb_vocab.dbow2 –n 1 –c ./aist_living_l
 
 _-n 뒤에 1은 카메라 숫자입니다 본인 카메라 번호를 입력해주세요._
 
-![](/Users/mac/Pictures/그림1.png)
+![](https://github.com/khg11102/OpenVSLAM/blob/master/%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%B71.png)
 
 MacBook Pro - FaceTime HD Camera를 이용해서 출력해 보았습니다.
 
