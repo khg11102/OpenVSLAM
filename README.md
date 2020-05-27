@@ -380,7 +380,7 @@ npm을 설치하고 app.js를 실행시키면 SocketViewer가 실행된다.
 
 ## Simple Tutorial
 
-### OpenVSLAM에서 제공헤주는 Sample Datasets을 이용해서 프로그램을 실행히켜봅시다.
+### OpenVSLAM에서 제공해주는 Sample Datasets을 이용해서 프로그램을 실행히켜봅시다.
 
 #### 하나씩 다운받아주세요 
 
